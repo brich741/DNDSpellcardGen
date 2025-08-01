@@ -17,6 +17,8 @@ Download the Dnd Exstension folder somewhere on your computer
 enable developer options in chrome exstension area 
 click the option to 'load unpacked' in the top left of the exstentions screen
 select the folder 'Dnd Exstension' where ever you put it
+<img width="2568" height="135" alt="image" src="https://github.com/user-attachments/assets/e454d559-9f86-43c4-b7d4-17320f19e876" />
+
 
 USE
 
