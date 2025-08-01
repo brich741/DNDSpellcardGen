@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "D&D Spell List",
+  "version": "1.1",
+  "description": "Displays a popup list of spells for my D&D character",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://dndbeyond.com/*"
+  ]
+}
